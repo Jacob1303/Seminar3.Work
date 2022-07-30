@@ -109,8 +109,9 @@
 
 ## Ветвление
 
+### Просмотр существующих веток
 
 ## Работа с изображением
 
-![logo bot found](kitty.jpg)
+![logo not found](kitty.jpg)
 
